@@ -12,6 +12,6 @@ Tous les sites sur lesquels j'ai travaillé sont responsives et s'adaptent aussi
 
 Les technologies de développement web m'intéressent particulièrement, ainsi je continue d'apprendre et de me former. 
 
-Je suis actuellement à la recherche d'un emploi dans le développement web en tant que Junior afin d'approfondir mes compétences mais aussi de partager mes connaissances.  
+Lors de ma formation, j’ai particulièrement apprécié Node.js et React, et je souhaiterais beaucoup travailler avec l’une ou l’autre de ces technologies. 
 
 Au fil des mes expériences professionnelles, j'ai apprécié travailler en équipe, même si je suis autonome dans mon travail. Je suis désormais prêt à relever de nouveaux challenges.  
