@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-Bonjour, je m'appelle Maxence, je suis développeur web. 
+Bonjour, je m'appelle Maxence, je suis développeur Java. 
 
-Avant de devenir passionné de développement web, je travaillais dans le domaine de la recherche en biologie. J'ai suivi une formation de développement web avec OpenClassrooms. 
+Avant de devenir passionné de développement, je travaillais dans le domaine de la recherche en biologie. 
 
-Au cours de cette formation j’ai créé une application front-end en React, et une API REST avec Node.JS.  
+J'ai suivi une formation de développement web avec OpenClassrooms. 
+Au cours de cette formation j’ai créé une application front-end en React, et une API REST avec Node.JS. 
 
-J'ai également travaillé sur un site de e-commerce en JavaScript vanilla, en gérant et manipulant le local storage et le panier d'achat. 
-
-Tous les sites sur lesquels j'ai travaillé sont responsives et s'adaptent aussi bien sur les smartphones que sur tablettes ou ordinateurs.  
-
-Les technologies de développement web m'intéressent particulièrement, ainsi je continue d'apprendre et de me former. 
-
-Lors de ma formation, j’ai particulièrement apprécié Node.js et React, et je souhaiterais beaucoup travailler avec l’une ou l’autre de ces technologies. 
-
-Au fil des mes expériences professionnelles, j'ai apprécié travailler en équipe, même si je suis autonome dans mon travail. Je suis désormais prêt à relever de nouveaux challenges.  
+Après cette expérience, j'ai été recruté chez Infotel conseil. Avant d'intégrer Infotel, j'ai suivi une POEI pour devenir développeur Java.
+Avec Infotel, je travail aujourd'hui chez un client chez qui je participe au développement d'une application d'économie d'énergie, qui permet de déclarer des créneaux d'effacement de consommation et qui récompense les utilisateurs.
+J'ai ainsi acquis une expertise dans des technologies back-end telles que Java, Spring, Hibernate, Maven, Swagger, Postman, PostgreSQL, MySQL, MongoDB, IntelliJ, Azure DevOps, Jira, Jenkins, Git, SonarQube
